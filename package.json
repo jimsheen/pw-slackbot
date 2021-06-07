@@ -10,11 +10,13 @@
   "author": "James Sheen",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
     "date-fns": "^2.16.1",
     "date-fns-tz": "^1.0.12",
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.6",
     "slackbots": "^1.2.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0"
   }
 }
